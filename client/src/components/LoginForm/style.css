@@ -21,6 +21,11 @@ h6.login{
     font-family: 'Prompt', sans-serif;
 }
 
+/* input.search{
+    margin-right:auto !important;
+    margin-left:auto !important;
+} */
+
 button#loginButton{
     margin-top: 60px;
     color:#468499 !important;
